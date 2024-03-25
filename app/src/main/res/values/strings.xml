@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationExample</string>
+    <string name="screen_one">ScreenOne</string>
+    <string name="screen_two">ScreenTwo</string>
+    <string name="screen_deep_link">ScreenDeepLink</string>
+    <string name="screen_three_arg">ScreenThreeArg</string>
+</resources>
